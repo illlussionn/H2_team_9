@@ -1,0 +1,8 @@
+zstandard>=0.22.0
+numpy>=2.0.0
+pandas>=2.0.0
+pyarrow>=14.0.0
+ujson>=5.0.0
+psutil>=5.9.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
